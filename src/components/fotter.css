@@ -1,0 +1,36 @@
+
+.contenedor-copy{
+    background-color:rgb(250, 210, 231);
+}
+
+.copy{
+    display: flex;
+    justify-content: center;
+    padding: 0.5em;
+}
+
+p.copy-parrafo {
+    font-size: 0.8em;
+    letter-spacing: 0.1em;
+    color: black;
+    padding-top: 0.5em;
+    margin-bottom: 0.1em;
+}
+
+.copy-links{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 0.5em;
+    letter-spacing: 0.5em;
+}
+
+.copy-links a{
+    color: #050505;
+}
+
+.iconos{
+    font-size: 0.5em;
+    margin: 0.5em;
+}
+
+

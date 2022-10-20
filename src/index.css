@@ -1,0 +1,32 @@
+body {
+  background-color: #f6c682;
+  min-height: 100vh;
+  margin:0;
+  box-sizing: border-box;
+}
+
+.error {
+  background-color: #b7322c;
+  padding: 1rem;
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
+.resultado {
+  color: rgb(11, 10, 10);
+}
+.resultado h2 {
+  font-weight: bold;
+  color: rgb(10, 9, 9);
+}
+.resultado p {
+  font-size: 18px;
+}
+.resultado p span {
+  font-weight: bold;
+}
+p.precio{
+  font-size: 20px;
+}
